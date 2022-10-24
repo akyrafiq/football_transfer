@@ -8,5 +8,5 @@ Found a few sources of data for football transfers. Have downloaded and stored t
 
 ### Update 24/10/22
 
-I have decided to restart the project with a rgaduate in my team at work.
+I have decided to restart the project with a graduate in my team at work.
  
